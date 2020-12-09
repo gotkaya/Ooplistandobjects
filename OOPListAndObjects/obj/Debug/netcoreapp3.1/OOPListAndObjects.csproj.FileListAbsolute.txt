@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.exe
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.deps.json
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.runtimeconfig.json
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.dll
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\bin\Debug\netcoreapp3.1\OOPListAndObjects.pdb
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.dll
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.pdb
+C:\Users\opilane\source\repos\OOPListAndObjects\OOPListAndObjects\obj\Debug\netcoreapp3.1\OOPListAndObjects.genruntimeconfig.cache
